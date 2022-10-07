@@ -4,12 +4,12 @@ In this project, you’ll use your knowledge of CSS visual rules to create rule 
 ## General info
 The purpose of the project is just personal learning
 
-#### To-do list:
+### To-do list:
 * Add link formating
 * Add responsive design.
 * Add "projects" 
 
 
-## Technologies
+#### Technologies
 * HTML5
 * CSS3
