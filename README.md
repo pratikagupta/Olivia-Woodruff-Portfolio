@@ -9,7 +9,6 @@ The purpose of the project is just personal learning
 * Add responsive design.
 * Add "projects" 
 
-
 #### Technologies
 * HTML5
 * CSS3
