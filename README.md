@@ -12,3 +12,9 @@ The purpose of the project is just personal learning
 #### Technologies
 * HTML5
 * CSS3
+
+
+
+
+
+
