@@ -16,5 +16,3 @@ The purpose of the project is just personal learning
 
 
 
-
-
